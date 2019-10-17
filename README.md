@@ -1,2 +1,2 @@
 # hello-word
-junior
+Hello Humans！
